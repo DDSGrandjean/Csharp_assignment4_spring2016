@@ -9,9 +9,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4HeartRate_DylanGrandjean
+namespace Assignment4
 {
-    class Program
+    class Main
     {
         //Primary method which calls other methods
         static void Main(string[] args)
